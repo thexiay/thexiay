@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on big data batch/streaming computing & storage.
 - 🌱 I’m currently learning Rust and anything about Rust.
 - 📫 How to reach me: Wechat: thexia0023 ; gmail: xiayu1187@gmail.com
-
+- 😄 Areas of interest: BigData AI Web3
 <!--
 **thexiay/thexiay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
